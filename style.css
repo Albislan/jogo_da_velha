@@ -18,10 +18,14 @@ footer {
     color: #eee;
 }
 
-.jogador, .vencedor {
-    font-size: 30;
-    margin-top: 10px;
+.jogador {
+        font-size: 30px;
+        margin-top: 10px;
 
+}
+.vencedor {
+    font-size: 30px;
+    margin-top: 10px;
 }
 button {
     margin-top: 10px;
