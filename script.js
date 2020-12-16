@@ -118,7 +118,6 @@ function checaVencedor() {
         mudarVencedor(quadrado3);
         return;
     }
-    
 }
 
 
